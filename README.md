@@ -1,3 +1,6 @@
-## A sample Reactjs App
+A Sample ReactJS Weather App
 
-By Rechie 
+***********Made with React16*********
+
+© Hamza Mirza
+
